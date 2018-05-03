@@ -7,6 +7,18 @@ Altcoin Core integration/staging tree
 
 https://www.bitcoin.org
 
+### Altcoin 参数
+参数如下：
+
+AlterPubKey	04e01590abdc5967eb550413fcf04bbd7cead46f13579b58d52ea2f08d71a1a94196c476cd4fa60c30b51737fe3d9c8c88a04a6bec2282ebb1f22286130a153b85
+pszTimestamp	shanghai stock index closed at 3159.05, on 13th Apr., 2018
+nTime	1523793951
+nBits	0x1d00ffff
+nNonce	375851493
+hashGenesisBlock	0x000000003976762ad74bdb76232eeaaa124cea80e12a8f8457cbf6f22edcb410
+hashMerkleRoot	0x6da63808648b8a42f1025a932b35a49403b944d367b4032aadb16282c43e9a51
+AlterSecretKey	06e72f3bd013c137cef61be3b84a773639d64ef38337c2e737f5ac521443f88e
+
 What is Altcoin?
 ----------------
 
